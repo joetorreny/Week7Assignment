@@ -1,0 +1,31 @@
+person,movie,score
+Peter,Dark Knight,5
+Suzan,Dark Knight,
+Chris,Dark Knight,5
+Richard,Dark Knight,4
+Bob,Dark Knight,3
+Peter,Simpsons Movie,
+Suzan,Simpsons Movie,2
+Chris,Simpsons Movie,4
+Richard,Simpsons Movie,4
+Bob,Simpsons Movie,4
+Peter,Emoji Movie,2
+Suzan,Emoji Movie,
+Chris,Emoji Movie,
+Richard,Emoji Movie,
+Bob,Emoji Movie,1
+Peter,Cars 3,4
+Suzan,Cars 3,5
+Chris,Cars 3,3
+Richard,Cars 3,
+Bob,Cars 3,
+Peter,Stronger,
+Suzan,Stronger,
+Chris,Stronger,3
+Richard,Stronger,4
+Bob,Stronger,4
+Peter,IT,5
+Suzan,IT,4
+Chris,IT,3
+Richard,IT,4
+Bob,IT,4
